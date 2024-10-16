@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489017063015",
+    "project_id": "lukerhinehartmobdevproject",
+    "storage_bucket": "lukerhinehartmobdevproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489017063015:android:2e1d00e5319376ca3a46c2",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-nmeBMgugqWvvh8I8dQbBQwQ_TXB9Rwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
